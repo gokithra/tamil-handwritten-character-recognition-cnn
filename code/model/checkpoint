@@ -1,3 +1,2 @@
-model_checkpoint_path: "cnn_model_1_with_tamil_2020-10-26 12:30:30.ckpt"
-all_model_checkpoint_paths: "cnn_model_1_with_tamil_2020-10-26 12:27:24.ckpt"
-all_model_checkpoint_paths: "cnn_model_1_with_tamil_2020-10-26 12:30:30.ckpt"
+model_checkpoint_path: "cnn_model_1_with_tamil_2020-10-26 13:31:03.ckpt"
+all_model_checkpoint_paths: "cnn_model_1_with_tamil_2020-10-26 13:31:03.ckpt"
